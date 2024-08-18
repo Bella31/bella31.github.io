@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-In the upcoming academic year (2024-2025) I will be opening a healthcare computer vision lab (hVision) at the University of Haifa! For the lab, I am looking for motivated Msc. and PhD. students that are passionate about computational medical imaging.
+In the upcoming academic year (2024-2025) I will be opening a healthcare computer vision lab (hVision) at the University of Haifa. For the lab, I am looking for motivated Msc. and PhD. students that are passionate about computational medical imaging.
 
 Currently, I am a part-time lecturer at the University of Haifa in the Medical Imaging Sciences department and a Postdoc at the Martinos Center for Biomedical Engineering. I earned my PhD from the Hebrew University. Previously, I worked at Philips as a scientist in the Medical Imaging domain.
 
