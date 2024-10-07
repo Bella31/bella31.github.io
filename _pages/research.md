@@ -10,11 +10,12 @@ redirect_from:
 
 - Healthcare computer vision clinical applications.
 
-- Artificial intelligence for medical imaging at home.
+- Artificial intelligence for self-operated medical imaging.
 
 - Trustworthy medical imaging algorithms for safe use in healthcare. 
 
 - Label-efficient and easy to use medical imaging algorithms. 
+
 
 **Technical Topics**
 
@@ -25,3 +26,17 @@ redirect_from:
 - Search in medical images.
 
 - Machine learning and deep learning for medical images.
+
+
+**Clinical topics**
+
+This is the current list of clinical topics:
+
+- Volumetric body composition assessment in CT
+
+- Self-operated Ultrasound
+
+- Fetal MRI
+
+- Humans identification based on x-ray dental images
+
