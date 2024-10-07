@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-In the upcoming academic year (2024-2025) I will be opening a healthcare computer vision lab (hVision) at the University of Haifa. For the lab, I am looking for motivated Msc. and PhD. students that are passionate about computational medical imaging.
+Bio
+======
+I am an Assistant Professor (Lecturer) in the Department of Medical Imaging Sciences at the University of Haifa, where I am launching my hVision lab this year. I completed my PhD at the Hebrew University of Jerusalem and pursued postdoctoral research at the Martinos Center for Biomedical Engineering. Prior to that, I worked as a scientist at Philips, specializing in the Medical Imaging field.
 
-Currently, I am a part-time lecturer at the University of Haifa in the Medical Imaging Sciences department and a Postdoc at the Martinos Center for Biomedical Engineering. I earned my PhD from the Hebrew University. Previously, I worked at Philips as a scientist in the Medical Imaging domain.
-
+**I am always looking for motivated Msc. and PhD. students that are passionate about computational medical imaging.**
 
 hVision lab mission
 ======
@@ -18,16 +19,16 @@ Medical images play a key role in healthcare, encapsulating the essence of "a pi
 
 Despite significant ML advancements in medical imaging, challenges remain before these algorithms become routine in clinical practice. They often struggle to generalize across different sites and scanners, requiring more robust models and evaluation methods. Current algorithms focus on specific clinical questions, making it costly to develop solutions for every need, highlighting the necessity for cost-effective algorithms with minimal annotated data. Additionally, workflow tools are essential for seamless integration into clinical practice. hVision lab aims to address these issues and develop clinically relevant healthcare computer vision algorithms. 
 
-
-
 Community
 ======
 I firmly believe in the power of communities as essential platforms for both learning and support. Being part of a community provides not only the opportunity to share knowledge and resources but also to receive encouragement and guidance from others who share similar interests and goals. 
 
-I am the founder and organizer of two meetups:
+I am a Community Engagement Officer of [Women in MICCAI (WiM)](https://miccai.org/index.php/about-miccai/women-in-miccai/)
+
+I am also the founder and organizer of two meetups:
 
 1. [Machine Learning for Medical Imaging (MLMI)](https://www.meetup.com/machine-learning-for-medical-imaging-israel/)
 
 2. [Haifa Machine Learning](https://www.meetup.com/Haifa-Machine-Learning-Reading-Group/)
 
-I am also a Community Engagement Officer of [Women in MICCAI (WiM)](https://miccai.org/index.php/about-miccai/women-in-miccai/)
+

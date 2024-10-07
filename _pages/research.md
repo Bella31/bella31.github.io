@@ -10,6 +10,8 @@ redirect_from:
 
 - Healthcare computer vision clinical applications.
 
+- Artificial intelligence for medical imaging at home.
+
 - Trustworthy medical imaging algorithms for safe use in healthcare. 
 
 - Label-efficient and easy to use medical imaging algorithms. 
