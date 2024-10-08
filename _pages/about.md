@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (Lecturer) in the Department of Medical Imaging Sciences at the University of Haifa, where I am opening my hVision lab this year. I earned my PhD from the computer science department at the Hebrew University of Jerusalem, followed by a research in collaboration with the Mertinos Center for Biomedical Engineering at the Harvard Medical School. Before my PhD studies, I worked as a scientist at Philips, specializing in the Medical Imaging domain.
+I am an Assistant Professor (Lecturer) in the Department of Medical Imaging Sciences at the University of Haifa, where I am opening my hVision lab this year. I earned my PhD from the School of Computer Science and Engineering at the Hebrew University of Jerusalem, and subsequently conducted research in collaboration with the Martinos Center for Biomedical Engineering at Harvard Medical School. Before my PhD studies, I worked as a scientist at Philips, specializing in the Medical Imaging domain.
 
 **I am always looking for motivated Msc. and PhD. students that are passionate about medical imaging technologies.**
 
